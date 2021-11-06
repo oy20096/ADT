@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ADT_TEST/BinTree/binstack.c
+binstack.h
+D:/ADT_TEST/BinTree/binstack.h
+stdlib.h
+-
+
+D:/ADT_TEST/BinTree/binstack.h
+bintree.h
+D:/ADT_TEST/BinTree/bintree.h
+
+D:/ADT_TEST/BinTree/bintree.c
+bintree.h
+D:/ADT_TEST/BinTree/bintree.h
+binstack.h
+D:/ADT_TEST/BinTree/binstack.h
+stdlib.h
+-
+
+D:/ADT_TEST/BinTree/bintree.h
+
+D:/ADT_TEST/BinTree/main.c
+stdio.h
+-
+bintree.h
+D:/ADT_TEST/BinTree/bintree.h
+

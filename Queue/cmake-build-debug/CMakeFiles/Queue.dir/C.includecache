@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ADT_TEST/Queue/main.c
+stdio.h
+-
+queue.h
+D:/ADT_TEST/Queue/queue.h
+
+D:/ADT_TEST/Queue/queue.c
+queue.h
+D:/ADT_TEST/Queue/queue.h
+queue.h
+D:/ADT_TEST/Queue/queue.h
+stdlib.h
+-
+malloc.h
+-
+
+D:/ADT_TEST/Queue/queue.h
+

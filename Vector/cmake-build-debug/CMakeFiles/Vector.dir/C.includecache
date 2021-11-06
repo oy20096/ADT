@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ADT_TEST/Vector/SearchAlgo.h
+
+D:/ADT_TEST/Vector/sort.c
+sort.h
+D:/ADT_TEST/Vector/sort.h
+
+D:/ADT_TEST/Vector/sort.h
+
+D:/ADT_TEST/Vector/vector.c
+vector.h
+D:/ADT_TEST/Vector/vector.h
+SearchAlgo.h
+D:/ADT_TEST/Vector/SearchAlgo.h
+sort.h
+D:/ADT_TEST/Vector/sort.h
+stdlib.h
+-
+
+D:/ADT_TEST/Vector/vector.h
+

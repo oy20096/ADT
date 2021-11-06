@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ADT_TEST/LIST/List.h
+
+D:/ADT_TEST/LIST/main.c
+stdlib.h
+-
+stdio.h
+-
+sort.h
+D:/ADT_TEST/LIST/sort.h
+List.h
+D:/ADT_TEST/LIST/List.h
+
+D:/ADT_TEST/LIST/sort.h
+List.h
+D:/ADT_TEST/LIST/List.h
+
